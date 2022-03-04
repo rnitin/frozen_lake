@@ -8,13 +8,11 @@ The following modules have been implemented:
     <li> Tabular Q learning
 </ol>
 
-___
 
 ## Installation
 `` git clone https://github.com/rnitin/frozen_lake.git``  
 `` pip install -r requirements.txt``
 
-___
 
 ## Description
 ### VI.ipynb
@@ -26,7 +24,6 @@ Jupyter notebook to perform policy iteration on 4x4 Frozen lake environment.
 ### QL.ipynb
 Jupyter notebook to perform tabular Q learning on 4x4 Frozen lake environment.
 
-___
 
 ## Acknowledgements
 This program was developed as a part of the Reinforcement Learning course offered by Prof. Srinivas Shakkottai at Texas A&M University.  
