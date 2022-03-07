@@ -27,4 +27,4 @@ Jupyter notebook to perform tabular Q learning on 4x4 Frozen lake environment.
 
 ## Acknowledgements
 This program was developed as a part of the Reinforcement Learning course offered by Prof. Srinivas Shakkottai at Texas A&M University.  
-The notebooks use the ``fancy_visual`` method which was provided by Desik Rengarajan and Prof. Shakkottai.
+The notebooks use the ``fancy_visual`` method which was provided by the instructors.
